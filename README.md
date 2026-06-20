@@ -1,2 +1,14 @@
 # hth-focuscn-guide
-HTML page archive and documentation
+
+仓库页面索引说明
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
